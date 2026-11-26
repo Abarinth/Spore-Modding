@@ -18,7 +18,7 @@ Tools to decrease the opacity of parts, limbs and the body between 0% and 100%.
 
 "Creature" is somewhat misleading of a name because it works on buildings, vehicles and outfitters too! 
 
-Heavily designed to be used alongside [Advanced Creature Paint](https://github.com/emd4600/advanced-creature-paint) as it provides a new opacity slider, but numpad / and * can be used to increment & decrement opacity by 10%.
+Heavily designed to be used alongside [Advanced Creature Paint](https://github.com/emd4600/advanced-creature-paint) as it provides a new opacity slider when clicking parts. Alternatively, select a part, limb or body, then use numpad / and * to increment & decrement opacity by 10%.
 
 When used with Advanced Creature Paint, if you just want to change the opacity and NOT paint the part, use the no paint button.
 
