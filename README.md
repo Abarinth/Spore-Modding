@@ -24,7 +24,7 @@ When used with Advanced Creature Paint, if you just want to change the opacity a
 
 **This should be share safe!**
 
-The mod works by storing opacity information within creatures, akin to [Advanced Creature Paint](https://github.com/emd4600/advanced-creature-paint). These opacities are then loaded with some alpha blending magic, which probably could have been done better!!
+The mod works by storing opacity information within creatures, akin to Advanced Creature Paint. These opacities are then loaded with some alpha blending magic, which probably could have been done better!!
 
 <br>
 
