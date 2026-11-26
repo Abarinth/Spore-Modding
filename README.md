@@ -13,7 +13,7 @@ The mod works by keeping a rolling log which is shared to a lightweight process 
 
 <br>
 
-### CreatuePartOpacity
+### CreaturePartOpacity
 Tools to decrease the opacity of parts, limbs and the body between 0% and 100%. 
 
 "Creature" is somewhat misleading of a name because it works on buildings, vehicles and outfitters too! 
