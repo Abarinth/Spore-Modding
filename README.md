@@ -44,6 +44,8 @@ This pairs very nicely with [Valla's camera fixes](https://github.com/Valla-Chan
 
 The mod works by preserving horizontal and vertical positions during calls which attempt to reset them. These resets may still happen, but on my end, they're incredibly rare now.
 
+<br>
+
 ## Credits & Notices
 - [emd4600](https://github.com/emd4600/)'s Advanced Creature Paint was incredibly insightful for learning modding as well as storing data against creatures.
 - AI was used throughout these mods to assist with my understanding and development. These mods were built to solve problems I encountered myself, rather than with the intention of public release, so bugs may be encountered! I figured others might appreciate the same solutions :]
