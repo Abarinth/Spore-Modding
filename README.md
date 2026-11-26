@@ -7,6 +7,8 @@ Popup windows on crashes to help diagnose problems.
 
 Press CTRL+SHIFT+F10 if the game has hung, it may be able to find some useful information for you!
 
+Crash signatures are created, it might help categorise crashes in the future and help people with similar issues!
+
 The mod works by keeping a rolling log which is shared to a lightweight process that remains running after Spore exists. When the game crashes, the reporter displays the log information.
 
 <br>
