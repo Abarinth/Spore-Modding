@@ -42,7 +42,7 @@ The mod works by comparing the creature against part definitions, paints, part l
 ### EditorPanStability
 Reduces snapping when using EditorEnablePanning, which is automatically turned on.
 
-This pairs very nicely with [Valla's camera fixes](https://github.com/Valla-Chan/Spore-Mods/releases/tag/SporeEditorCameraFix), it actually exists to enhance this mod!
+This pairs very nicely with [Valla's camera fixes](https://github.com/Valla-Chan/Spore-Mods/releases/tag/SporeEditorCameraFix), EditorPanStability actually exists to enhance this mod!
 
 The mod works by preserving horizontal and vertical positions during calls which attempt to reset them. These resets may still happen, but on my end, they're incredibly rare now.
 
